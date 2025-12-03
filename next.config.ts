@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  turbopack: {
+    root: "c:/Users/USER/Desktop/study/dice-game",
+  },
+  reactStrictMode: false,
 };
 
 export default nextConfig;
