@@ -216,10 +216,4 @@ Color Scheme:
 - **slider-bar-thumb.png**: Custom slider thumb
 - **sound2.wav**: Slider movement sound effect
 
-## 📝 License
 
-MIT
-
-## 👨‍💻 Author
-
-Test assignment completed according to requirements.
