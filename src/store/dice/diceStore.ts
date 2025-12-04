@@ -113,6 +113,7 @@ export const useDiceStore = create<DiceStore>((set, get) => ({
         bet_amount: betAmount,
         target_percent: target,
         direction,
+        current_balance: balance,
       });
 
       if (response.success) {

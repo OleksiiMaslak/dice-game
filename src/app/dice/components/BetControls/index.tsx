@@ -58,7 +58,7 @@ export default function BetControls() {
               : 'text-gray-400 hover:text-gray-300'
             }`}
         >
-          Вручную
+          Manually
           {mode === 'manual' && (
             <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-[#22c55e]" />
           )}
